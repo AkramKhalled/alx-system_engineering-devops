@@ -1,2 +1,2 @@
-#!/vin/bash
-uniq -u | sort
+#!/bin/bash
+sort | unique -u
